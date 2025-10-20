@@ -1,0 +1,17 @@
+body {
+    background-color: #2b4e4e;
+}
+.rang {background-color: slategray; 
+margin: 50px;
+}
+body {text-align: center;
+}
+.bosh {
+border: 14px solid red;
+margin: 100px 350px 100px 350px;
+}
+.ramka {background-color: aquamarine;
+    border: 20px solid black;
+padding: 10px 50px 50px 50px;
+}
+.davomi {border: 10px solid black;}
